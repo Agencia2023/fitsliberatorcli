@@ -1,2 +1,0 @@
-# FITS Liberator CLI
-
