@@ -1,0 +1,9 @@
+version: "3.7"
+
+services:
+  fits_cli:
+    build: ./docker
+    volumes:
+     - .:/src
+    command: make 
+    command: /bin/bash
